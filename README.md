@@ -15,7 +15,7 @@ Supermarket menghadapi penurunan penjualan, dan analisis ini bertujuan untuk men
 
 ## Pembersihan Data
 
-- Dataset ini berisi 2.240 entri dan 29 kolom, dengan **tanpa nilai yang hilang** (non-null).
+- Terdapat 24 Missing value pada Column “INCOME” maka dari itu kita harus meremove 24 data dari dataset agar dataset lebih Clean dan dapat digunakan.
 - Kolom-kolom yang relevan telah dipivot dan dibersihkan untuk memastikan tipe data yang tepat untuk analisis lebih lanjut.
   
 ## Analysis yang dilakukan
